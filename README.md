@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hi there 👋 I'm Serhii - Python Developer
 
-<!--
-**me1nyk/me1nyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I'm a Python developer with problem-solving skills and effective communicator with a keen eye for detail. Collaborative team player with upper-intermediate English proficiency. Proactive in staying updated with the latest advancements in Python development.
 
-Here are some ideas to get you started:
+### 🚀 Check out my skills below and let's connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Skills          | Technologies/Libraries/Frameworks                 |
+|------------------|------------------------------------------------------|
+| Python           | Python 3.7+                                          |
+| OOP              | Object-oriented programming                          |
+| Algorithms       | Sorting, searching, etc.                             |
+| Data Structures  | Linked lists, trees, graphs, etc.                     |
+| Web Scraping     | BeautifulSoup4, Selenium, Scrapy                      |
+| Data Analysis    | NumPy, Pandas, Matplotlib, Tableau                    |
+| Concurrency      | Multiprocessing, Multithreading, Asyncio, Celery      |
+| Web Frameworks   | Django, DRF, Flask, FastAPI                          |
+| Databases        | PostgreSQL, SQLite, Redis, MongoDB                   |
+| Front-end        | HTML, CSS, Bootstrap, JavaScript                     |
+| DevOps           | Docker, Render.com, AWS (EC2), CI/CD                  |
+| Tools            | Git, GitHub, Debugger, Pytest, Trello                |
+
+| Information    | Details                                       |
+|----------------|-----------------------------------------------|
+| Location       | Lviv, Ukraine                                 |
+| E-mail          | serhii.melnyk.work@gmail.com                  |
+| Telegram     | [SerhiiMelnyk98](https://t.me/SerhiiMelnyk98)   |
+| Linkedin        | [Serhii Melnyk](https://www.linkedin.com/in/serhii-melnyk-2a6916199/)  |
